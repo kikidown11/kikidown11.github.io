@@ -1,82 +1,10 @@
 {
-
-  "More":[
-
+"More": [
     {
-
-      "id":1,
-
-      "title":"BTS Jungkook",
-
-      "image":"https://play-lh.googleusercontent.com/0TijyLRpB1hjYCgHSD1yi69fxPgfk5HVVXFNRyQ91ztxCzGv6StqjU5UI5Z9YbFAal4=w240-h480-rw",
-
-      "link":"https://play.google.com/store/apps/details?id=com.kikidown.btsjungkookcallingsimulator"
-
-    },
-    {
-
-      "id":2,
-
-      "title":"Baim Wong",
-
-      "image":"https://play-lh.googleusercontent.com/d-QVuZkXt6z2YvpUa01Kqttt5HFJ9lLcji_8Qsla7fGlb1GaYR1K5qP_4bjPuR-COg=w240-h480-rw",
-
-      "link":"https://play.google.com/store/apps/details?id=com.kikidown.baimwongcallingsimulator&hl=id"
-
-    },
-    {
-
-      "id":3,
-
-      "title":"BTS Jimin Menelponmu",
-
-      "image":"https://play-lh.googleusercontent.com/WD29DuF_tFD2NbvbqEb-giWVvd1r7yIpYZlTcKscfIe1_6TYp_DHrz_HHK_IGrJyJw=w240-h480-rw",
-
-      "link":"https://play.google.com/store/apps/details?id=com.kikidown.btsjimincallingsimulator"
-
-    },
-    {
-
-      "id":4,
-
-      "title":"BTS RM",
-
-      "https://play-lh.googleusercontent.com/RgNmzaf4jTROXAUm2Xkd3Da9SOGzVvK21gsF1YqH0cAnGekUhxI75u3WyNz9LhkeYNqF=w240-h480-rw"
-
-      "link":"https://play.google.com/store/apps/details?id=com.kikidown.btsrmnamjoonvideocall"
-
-    },
-    {
-
-      "id":5,
-
-      "title":"BTS Jin",
-
-      "image":"https://play-lh.googleusercontent.com/d5LUYU5UXQD0FZ-dmlEXVY0g6n8PdCD0Mom_6vePZD2oWXVvWhQWm4vWuoLAxORBj7U=w240-h480-rw",
-
-      "link":"https://play.google.com/store/apps/details?id=com.kikidown.btsjincallingsimulator"
-
-    },
-    {
-      "id":6,
-
-      "title":"Milana",
-
-      "image":"https://play-lh.googleusercontent.com/VeOzn7Eb108mOl3lp1yoYWUFK3jAaeCw_YU6fnwNHlz2qR--lw3aX4bJjmmWhNn2Gg=w240-h480-rw",
-
-      "link":"https://play.google.com/store/apps/details?id=com.kikidown.milanakhametovacall"
-
-    },
-    {
-
-      "id":7,
-
-      "title":"Vilmei",
-
-      "image":"https://play-lh.googleusercontent.com/_h0kjctgaEBA8FCDBqtX3Ov3CJ83MUU9GKGe6CpoBXcTAwjoawwe40nA_dQ2hZeg4M9T=w240-h480-rw",
-
-      "link":"https://play.google.com/store/apps/details?id=com.kikidown.vilmeicallingsimulator"
-
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
     }
   ]
 }
